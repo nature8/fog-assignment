@@ -1,0 +1,36 @@
+/* 
+.navbar {
+    margin-bottom: 20px;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .nav-item {
+    margin-right: 15px;
+  }
+   */
+
+   .navbar-nav .nav-item .nav-link {
+    color: black !important; 
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover,
+  .navbar-nav .nav-item .nav-link:focus {
+    color: black !important; 
+  }
+  
+  .navbar-nav .nav-item .nav-link.active {
+    color: black !important; 
+  }
+
+  
+.icon-black {
+  color: black !important; 
+}
+
+
+.icon-black:hover {
+  color: black !important; 
+}
